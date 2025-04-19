@@ -1,0 +1,71 @@
+--- Symbol List (sorted by symbol)
+0.endless                8041              (R )
+1.NES_CHR_BANKS          0000              (R )
+1.NES_MAPPER             0000              (R )
+1.NES_MIRRORING          0000              (R )
+1.NES_PRG_BANKS          0002              (R )
+3.clearRAM               8047              (R )
+3.skipStack              8050              (R )
+4.loop                   8074              (R )
+6.NoEor                  8089              (R )
+7.NoEor                  808f              (R )
+8.loop                   809d              (R )
+APU_CHAN_CTRL            4015              (R )
+APU_DMC_CTRL             4010                  
+APU_FRAME                4017              (R )
+APU_NOISE_FREQ           400e                  
+APU_NOISE_TIMER          400f                  
+APU_NOISE_VOL            400c                  
+APU_STATUS               4015                  
+ClearRAM                 8044              (R )
+ClearVRAM                8066                  
+CTRL_8x16                0020                  
+CTRL_8x8                 0000                  
+CTRL_BG_0000             0000                  
+CTRL_BG_1000             0010                  
+CTRL_INC_1               0000                  
+CTRL_INC_32              0004                  
+CTRL_NMI                 0080              (R )
+CTRL_NT_2000             0000                  
+CTRL_NT_2400             0001                  
+CTRL_NT_2800             0002                  
+CTRL_NT_2C00             0003                  
+CTRL_SPR_0000            0000                  
+CTRL_SPR_1000            0008                  
+DMC_FREQ                 4010              (R )
+F_BLANK                  0080                  
+F_SCAN8                  0020                  
+F_SPRITE0                0040                  
+F_WIGNORE                0010                  
+JOYPAD1                  4016              (R )
+JOYPAD2                  4017                  
+MASK_BG                  0008              (R )
+MASK_BG_CLIP             0002                  
+MASK_COLOR               0000                  
+MASK_MONO                0001                  
+MASK_SPR                 0010                  
+MASK_SPR_CLIP            0004                  
+MASK_TINE_GREEN          0080                  
+MASK_TINT_BLUE           0040                  
+MASK_TINT_RED            0020                  
+NES_MIRR_HORIZ           0000                  
+NES_MIRR_QUAD            0008                  
+NES_MIRR_VERT            0001                  
+NextRandom               8084                  
+NMIHandler               80a8              (R )
+OAM_ADDR                 2003                  
+OAM_DATA                 2004                  
+OAM_RAM                  0200                  
+PPU_ADDR                 2006              (R )
+PPU_CTRL                 2000              (R )
+PPU_DATA                 2007              (R )
+PPU_MASK                 2001              (R )
+PPU_OAM_DMA              4014                  
+PPU_SCROLL               2005                  
+PPU_STATUS               2002              (R )
+PrevRandom               808a                  
+ReadJoypad0              8090                  
+ReadJoypadY              8092                  
+Start                    8000              (R )
+WaitSync                 807e              (R )
+--- End of Symbol List.

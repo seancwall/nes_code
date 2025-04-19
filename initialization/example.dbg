@@ -1,0 +1,7 @@
+sym	id=0,name="ClearRAM",addrsize=4,val=0x8044,type=lab
+sym	id=1,name="ClearVRAM",addrsize=4,val=0x8066,type=lab
+sym	id=2,name="CTRL_8x16",addrsize=4,val=0x0020,type=equ
+sym	id=3,name="NMIHandler",addrsize=4,val=0x80a8,type=lab
+sym	id=4,name="NextRandom",addrsize=4,val=0x8084,type=lab
+sym	id=5,name="PrevRandom",addrsize=4,val=0x808a,type=lab
+sym	id=6,name="Start",addrsize=4,val=0x8000,type=lab
